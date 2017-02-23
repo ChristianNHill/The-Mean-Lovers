@@ -10,4 +10,4 @@ https://catalog.data.gov/dataset/traffic-violations-56dda
 
 # Questions to Keep in Mine:
 
-What cars are most likely to commit trafiic violations in this county.
+What cars are most likely to commit trafiic violations in this county?

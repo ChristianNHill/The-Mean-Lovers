@@ -1,4 +1,4 @@
-# We-are-"mean"-lovers
+# We-Are-Mean-Lovers
 CSCI-4502 Data Mining Project
 
 # Dataset:

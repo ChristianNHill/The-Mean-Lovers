@@ -15,3 +15,7 @@ https://www.opendatanetwork.com/dataset/data.montgomerycountymd.gov/4mse-ku6q
 What are the top five streets for issuing traffic citations?
 
 What cars are most likely to commit trafiic violations in this county?
+
+Are there certain times of the year/day that crashes are more likely to occur?
+
+How does the percentage of traffic violations issued based on ethnicity compare with the demographic distribution of the county?

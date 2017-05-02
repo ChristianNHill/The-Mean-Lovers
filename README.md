@@ -27,9 +27,9 @@ It was discovered through use of clustering and heatmaps that environmental fact
 # Application of Findings
 Dip in average traffic violations in 2015. Shows that the data should be analyzed for explanations of this pattern and successful policies.
 
-With the traffic location data, City workers can see which environmental/road factors may contribute to a higher number of crashes and violations. Police officers can also the amount of time they patrol in those areas.
+With the traffic location data, City workers can see which environmental/road factors may contribute to a higher number of crashes and violations. Police officers can also increase the amount of time they patrol in those areas.
 
-Accidents tend to occur more in the winter than the summer, so the police force can be ready by having more accident investigators on hand in the winter.
+Accidents tend to occur more in the winter and during commute times, so the police force can be ready by having more accident investigators on hand in the winter and during rush hour.
 
 Since there was a noticeable difference between the percentage of citations vs warnings received by men and by women, police officers could be penalized for being biased. This will also help prevent women from being taken advantage of by police officers.
 

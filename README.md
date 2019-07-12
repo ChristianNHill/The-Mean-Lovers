@@ -1,5 +1,5 @@
 # County Database of Traffic Violations
-CSCI-4502 Data Mining Project
+Data Mining a County Database of Traffic Violations in Maryland
 
 # Team Members
 Chris Hill, Ankhbayar Jansan, Rachel Lewis, Chase Whyte
